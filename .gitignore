@@ -4,6 +4,7 @@ obj/
 riderModule.iml
 /_ReSharper.Caches/
 # Common IntelliJ Platform excludes
+.idea/.idea.AgentEnhancementPipeline/.idea/
 
 # User specific
 **/.idea/**/workspace.xml
