@@ -26,6 +26,8 @@ riderModule.iml
 **/.idea/**/contentModel.xml
 **/.idea/**/modules.xml
 
+**/.junie
+
 *.suo
 *.user
 .vs/
