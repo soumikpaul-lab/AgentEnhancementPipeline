@@ -244,4 +244,4 @@ This repository is intended as a focused educational sample. It is a good starti
 
 ## License
 
-No license has been specified yet. Add a `LICENSE` file before using this code in production or sharing it as an open-source project.
+This project is licensed under the [MIT License](LICENSE).
