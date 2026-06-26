@@ -4,6 +4,12 @@ Agent Enhancement Pipeline is a small .NET console application that demonstrates
 
 The goal of this repository is not only to show a working agent, but to emphasize an important engineering habit: agentic coding still benefits from classic software design patterns. As AI applications grow, patterns such as Decorator help keep the codebase extensible, testable, observable, and easier to evolve.
 
+## Featured Article
+
+Want the story behind this repo? Read the companion blog post:
+
+[Design Patterns Are Not Dead. Your AI Agent Just Forgot to Invite Them.](https://medium.com/@paulsoumik66/design-patterns-are-not-dead-your-ai-agent-just-forgot-to-invite-them-e872b323f463?sharedUserId=paulsoumik66)
+
 ## Why This Repository Exists
 
 Agent applications often start simple: connect to an LLM, send a prompt, and return a response. Over time, real-world systems need more behavior around that base capability:
